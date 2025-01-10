@@ -2,12 +2,12 @@
 title:  "Německé protiletadlové věže (Flaktürme, Flak Tower)"
 # excerpt: "In this article, I would like to point out options to identify, monitor and avoid persistent access on Managed Identities privileges by adding federated credentials on User-Assigned Managed Identities (UAMI) from malicious or unauthorized entities. We will also have a quick look at attack paths and privileges which should be considered."
 header:
-#   overlay_image: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
+  overlay_image: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
 #   overlay_filter: rgba(102, 102, 153, 0.85)
   teaser: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
 search: true
 toc: true
-toc_sticky: true
+# toc_sticky: true
 categories:
   - 2. světová válka
   - německo
@@ -31,7 +31,7 @@ Věže navrhl Friedrich Tamms, postavila je organizace Todd. [^1]
 
 Vzhledem k tomu, že obvyklá tloušťka stěn byla 2,5 m a stropy měly až 3,5 m, byly věže velmi odolné a později po válce stálo velké usilí je zbourat.
 
-![Flaktürme](https://www.milmag.cz/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-04-stavba.jpg "Flaktürme")
+![Flaktürme]({{ site.url }}{{ site.baseurl }}/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-04-stavba.jpg "Flaktürme")
 
 
 ## Typy věží
@@ -61,7 +61,7 @@ Tloušťka stěn: Až 2,5 metru.
 
 L-Turm byly menší a sloužily primárně pro koordinaci palby a radiové spojení. Neobsahovaly těžké zbraně jako G-Turm, ale byly vybaveny sofistikovanou technologií pro řízení obrany.
 
-![Flaktürme](https://www.milmag.cz/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-02-vez-g-hamburk-po-valce.png "Flaktürme")
+![Flaktürme]({{ site.url }}{{ site.baseurl }}/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-02-vez-g-hamburk-po-valce.png "Flaktürme")
 
 ### Generace věží
 
@@ -83,7 +83,7 @@ Na 8. patře byly vnější spodní plošiny pro lehký flak k ochraně před n�
 
 Poznámka: I přes určitou standardizaci věží, je nutné zmínit, že jednotlivé věže se mohly lišit zejména z důvodu místa ve městě kde byly postaveny a také záleželo na generaci věže.
 
-![Flaktürme](https://www.milmag.cz/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-05-generace-vezi.png "Flaktürme")
+![Flaktürme]({{ site.url }}{{ site.baseurl }}/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-05-generace-vezi.png "Flaktürme")
 
 ### Výzbroj a výstroj věží G-Turm
 
@@ -99,7 +99,7 @@ Na hlaveň mohlo být vystřeleno šest výstřelů za minutu. Věž G-Turm se 4
 
 Každá věž měla po jejím obvodu pomocné kanony pro nízkoletící letadla.
 
-![Flaktürme](https://www.milmag.cz/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-03-posadka.jpg "Flaktürme")
+![Flaktürme]({{ site.url }}{{ site.baseurl }}/assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-03-posadka.jpg "Flaktürme")
 
 ### Výzbroj a výstroj věží L-Turm
 

@@ -1,9 +1,9 @@
 ---
 title:  "Německé protiletadlové věže (Flaktürme, Flak Tower)"
-excerpt: "In this article, I would like to point out options to identify, monitor and avoid persistent access on Managed Identities privileges by adding federated credentials on User-Assigned Managed Identities (UAMI) from malicious or unauthorized entities. We will also have a quick look at attack paths and privileges which should be considered."
+# excerpt: "In this article, I would like to point out options to identify, monitor and avoid persistent access on Managed Identities privileges by adding federated credentials on User-Assigned Managed Identities (UAMI) from malicious or unauthorized entities. We will also have a quick look at attack paths and privileges which should be considered."
 header:
-  overlay_image: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
-  overlay_filter: rgba(102, 102, 153, 0.85)
+#   overlay_image: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
+#   overlay_filter: rgba(102, 102, 153, 0.85)
   teaser: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
 search: true
 toc: true

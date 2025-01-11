@@ -1,19 +1,19 @@
 ---
 title:  "Německé protiletadlové věže (Flaktürme, Flak Tower)"
-# excerpt: "In this article, I would like to point out options to identify, monitor and avoid persistent access on Managed Identities privileges by adding federated credentials on User-Assigned Managed Identities (UAMI) from malicious or unauthorized entities. We will also have a quick look at attack paths and privileges which should be considered."
+excerpt: "**Protiletadlová věž**, *německy* **Flaktürme**, byly vysoké, masivní, železobetonové pevnosti sloužící jako protiletadlová ochrana nacistického Německa. Byly postaveny na příkaz Adolfa Hitlera po zahájení  bombardovací kampani Berlína v roce 1940."
 header:
   overlay_image: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
 #   overlay_filter: rgba(102, 102, 153, 0.85)
   teaser: /assets/images/articles/tema/nemecke-protiletadlove-veze-flakturme-flak-tower-365/flakturme-01-vez-g-viden.jpg
 search: true
-toc: true
+# toc: true
 # toc_sticky: true
 categories:
   - 2. světová válka
   - německo
-# tags:
-#   - AzureAD
-#   - Microsoft Entra
+tags:
+  - protiletadlová obrana
+  - německo
 keywords: německé, protiletadlové, věže, obrana, pevnost, bunkr, beton, železobeton, flaktürme, flak, tower, letectvo, berlín, vídeň, hamburk, berlin, wien, třetí říše, nacistické, německo
 author: michalzobec
 ---
